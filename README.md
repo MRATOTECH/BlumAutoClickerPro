@@ -42,4 +42,5 @@ Blum Auto Clicker - is a tool designed to help you manage and interact with Blum
 ## You should firstly start the blum game, and then press 's' to start.
 
 Join us on Telegram for more update 
-![image](https://t.me/addlist/3oHlY2NsIfdiMjc0)
+![image](https://telegram.org/file/464001916/10d69/wMJtQWE_ZwI.17701.png/f4e97997cb38fc577a)
+Stay & Share https://t.me/addlist/3oHlY2NsIfdiMjc0
