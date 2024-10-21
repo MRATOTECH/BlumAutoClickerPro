@@ -17,7 +17,7 @@ Blum Auto Clicker - is a tool designed to help you manage and interact with Blum
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/mratotech/BlumAutoClickerpro
-    cd blum-auto-clicker
+    cd BlumAutoClickerpro
     ```
 
 2. **Run the installation script:**
