@@ -23,7 +23,7 @@ Blum Auto Clicker - is a tool designed to help you manage and interact with Blum
 2. **Run the installation script:**
 	Run the following command in the command prompt:
     ```bash
-    pip install -r requirements.txt
+   python -m pip install -r requirements.txt
     ```
 
 ### Usage
